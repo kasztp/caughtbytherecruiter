@@ -1,6 +1,6 @@
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 200;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -8,7 +8,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 200;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -16,7 +16,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 400;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -24,7 +24,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 400;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -32,7 +32,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 600;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -40,7 +40,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 600;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -48,7 +48,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 900;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -56,7 +56,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: italic;
   font-weight: 900;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -64,7 +64,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 200;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -72,7 +72,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 200;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -80,7 +80,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 400;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -88,7 +88,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 400;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -96,7 +96,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 600;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -104,7 +104,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 600;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -112,7 +112,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 900;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
@@ -120,7 +120,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Source Sans Pro';
+  font-family: 'Neue Plak';
   font-style: normal;
   font-weight: 900;
   src: url(./caughtbytherecruiter_files/NeuePlak-ExtendedBlack.otf) format('otf');
